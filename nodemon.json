@@ -1,0 +1,7 @@
+{
+  "ext": "ts",
+  "ignore": ["**/*.spec.ts"],
+  "execMap":{
+    "ts":"node --inspect-brk -r ts-node/register"
+  }
+}
